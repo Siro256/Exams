@@ -1,6 +1,6 @@
 name: Exams
 main: com.dogonfire.exams.Exams
-author: DogOnFire
+author: DogOnFire , Edit by Siro_256
 version: 0.2.5
 description: Exams in Minecraft!
 softdepend: [Vault]

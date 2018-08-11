@@ -10,5 +10,9 @@
     <orderEntry type="library" name="spigot-1.13" level="project" />
     <orderEntry type="library" name="VaultAPI-1.6" level="project" />
     <orderEntry type="library" name="LuckPerms-Bukkit-4.2.58" level="project" />
+    <orderEntry type="library" name="PermissionsEx-1.23.4" level="project" />
+    <orderEntry type="library" name="EssentialsXGroupManager-2.0.1" level="project" />
+    <orderEntry type="library" name="bPermissions-2.12" level="project" />
+    <orderEntry type="library" name="PermissionsBukkit-2.5" level="project" />
   </component>
 </module>
